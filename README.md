@@ -47,7 +47,7 @@ Reflect a country’s financial health and productivity.
     
 
 
-<img width="800" height="600" alt="ECO_spectral_2_rbf" src="https://github.com/user-attachments/assets/8af6495b-fc92-46a7-9f5e-80cc7eca7221" />
+<img width="600" height="450" alt="ECO_spectral_2_rbf" src="https://github.com/user-attachments/assets/8af6495b-fc92-46a7-9f5e-80cc7eca7221" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Capture the well-being and longevity of populations.
     * Agglomerative (n_clusters:2)
     
 
-<img width="800" height="600" alt="HEALTH_agglo_2" src="https://github.com/user-attachments/assets/38bcfef4-0a7d-468b-ab2d-4c164ed1c915" />
+<img width="600" height="450" alt="HEALTH_agglo_2" src="https://github.com/user-attachments/assets/38bcfef4-0a7d-468b-ab2d-4c164ed1c915" />
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -88,7 +88,7 @@ Describe demographic structure and growth dynamics.
   * **Finalised model**
     * DBSCAN (eps:3; min_smaples:13)
 
-<img width="800" height="600" alt="POP_dbscan_3_13" src="https://github.com/user-attachments/assets/08e46908-4a1f-4344-b0ea-dcbe6081201f" />
+<img width="600" height="450" alt="POP_dbscan_3_13" src="https://github.com/user-attachments/assets/08e46908-4a1f-4344-b0ea-dcbe6081201f" />
 
 
 
